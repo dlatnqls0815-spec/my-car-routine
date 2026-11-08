@@ -1,0 +1,7 @@
+release-assets/
+*.jks
+*.keystore
+.env*
+*.json
+*.apk
+*.zip
