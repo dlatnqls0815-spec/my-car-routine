@@ -6,9 +6,13 @@
 
 ## 설치
 
-[Releases에서 APK 다운로드](https://github.com/dlatnqls0815-spec/my-car-routine/releases)
+[**로그인 없이 APK 바로 다운로드**](https://raw.githubusercontent.com/dlatnqls0815-spec/my-car-routine/main/downloads/MyCarRoutine-0.5.17.apk)
 
-1. 최신 Release의 `MyCarRoutine-0.5.17.apk`를 다운로드해 설치합니다. 처음 설치할 때 Android에서 해당 다운로드 앱의 설치 허용을 요청할 수 있습니다. 설치가 끝나면 불필요한 설치 허용은 꺼 주세요.
+[파일 검증값](downloads/SHA256SUMS.txt) · [Release와 변경 사항](https://github.com/dlatnqls0815-spec/my-car-routine/releases)
+
+Release 다운로드에서 504 오류가 나면 위 바로 다운로드 링크를 사용하세요. 두 경로의 APK는 동일합니다.
+
+1. 위 링크의 `MyCarRoutine-0.5.17.apk`를 다운로드해 설치합니다. 처음 설치할 때 Android에서 해당 다운로드 앱의 설치 허용을 요청할 수 있습니다. 설치가 끝나면 불필요한 설치 허용은 꺼 주세요.
 2. 내 차 루틴을 열고 **위젯 선택 및 연결**에서 본인의 공식 차량 위젯을 연결합니다.
 3. **알림 접근 설정**과 **결과 알림 설정**을 확인합니다. 알림 접근 범위는 [개인정보 안내](PRIVACY.md)를 읽고 직접 허용하세요.
 4. **차량과 자동화 설정 → 차량 기능 확인**에서 내 차량과 사용할 기능을 확인합니다.

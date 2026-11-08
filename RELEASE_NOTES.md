@@ -1,3 +1,7 @@
+[**로그인 없이 APK 바로 다운로드**](https://raw.githubusercontent.com/dlatnqls0815-spec/my-car-routine/main/downloads/MyCarRoutine-0.5.17.apk)
+
+Release 파일 다운로드에서 504가 나타나면 위 링크를 사용하세요. 동일한 APK입니다.
+
 내 차 루틴 0.5.17 시험 배포본입니다. APK와 사용 안내만 제공하며 소스코드는 포함하지 않습니다.
 
 **차문 자동 잠금 사용 시, 시동을 끈 뒤 차량에 차 키와 휴대폰을 두고 내리지 마세요. 키와 휴대폰을 소지했는지 확인한 후 하차하세요.**

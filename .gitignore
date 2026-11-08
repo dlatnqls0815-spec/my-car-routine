@@ -5,3 +5,5 @@ release-assets/
 *.json
 *.apk
 *.zip
+
+!downloads/*.apk
